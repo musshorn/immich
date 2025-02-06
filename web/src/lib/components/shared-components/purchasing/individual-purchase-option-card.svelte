@@ -15,7 +15,7 @@
   </div>
 
   <div class="mt-4 dark:text-immich-gray">
-    <p class="text-6xl font-bold">$25</p>
+    <p class="text-6xl font-bold">$25 USD</p>
     <p>{$t('purchase_per_user')}</p>
   </div>
 
